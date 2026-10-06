@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Config Key="PATCH_BASE_URL" Value="https://ekkhome.github.io/Dev_StudyGameLogic_CDN/live" />
+  <Config Key="MIN_APP_VERSION_Android" Value="" />
+  <Config Key="STORE_URL_Android" Value="" />
+  <Config Key="MIN_APP_VERSION_iOS" Value="" />
+  <Config Key="STORE_URL_iOS" Value="" />
+  <Config Key="MAINTENANCE_START" Value="" />
+  <Config Key="MAINTENANCE_END" Value="" />
+  <Config Key="MAINTENANCE_MESSAGE" Value="" />
+  <Config Key="TEST_KEY" Value="live" />
+</Root>
